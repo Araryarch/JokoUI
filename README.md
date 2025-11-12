@@ -16,10 +16,10 @@
 ## ⚙️ Setup
 
 ```bash
-git clone https://github.com/username/jokoui.git
-cd jokoui
-npm install
-npm run dev
+git clone https://github.com/Araryarch/JokoUI.git
+cd JokoUI
+bun install
+bun dev
 ```
 
 ## 📜 License
